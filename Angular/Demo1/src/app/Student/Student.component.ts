@@ -6,6 +6,7 @@ import { Component } from "@angular/core";
   <h1>Student Component Works dude</h1>
 
   `,
+  styleUrls:["./Student.component.css"],
 })
 export class StudentComponent{
 
